@@ -1,9 +1,9 @@
 title: Matheus Rodrigues
 name: Matheus
 email: matheusrf96@gmail.com
-description: Teste! XD
+description: Web Developer
 
-baseurl: "/blog"
+baseurl: "/"
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
@@ -21,12 +21,10 @@ project_two_description: Describe your project!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
-
 project_three: Third Project
 project_three_description: Describe your project!
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
-
 
 project_four: Fourth Project
 project_four_description: Describe your project!
@@ -41,7 +39,7 @@ syntax_highlighting: true
 
 skills:
   - name: angularjs
-  - name: apache
+#  - name: apache
   - name: atom
   - name: bitbucket
   - name: bootstrap
@@ -58,19 +56,19 @@ skills:
   - name: inkscape
   - name: java
   - name: javascript
-  - name: laravel
+#  - name: laravel
   - name: less
   - name: linux
-  - name: meteor
+#  - name: meteor
   - name: mongodb
   - name: mysql
-  - name: nginx
+#  - name: nginx
   - name: nodejs
   - name: php
   - name: postgresql
   - name: python
   - name: rails
-  - name: react
+#  - name: react
   - name: ruby
   - name: sass
   - name: ssh
@@ -87,8 +85,8 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: https://github.com/matheusrf96
+# medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
@@ -98,8 +96,7 @@ tag_manager_id: # This looks something like GTM-XXXXXXX
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
 cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
-
-cookie_accept_message: Thanks!
+cookie_accept_message: Obrigado!
 
 syntax_highlighting: true # include the css for syntax highlighting
 
