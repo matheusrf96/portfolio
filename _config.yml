@@ -9,30 +9,30 @@ url: ""
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
 parallax_image_one: assets/images/code2.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/twoscreen.jpg
+# parallax_image_two: assets/images/twoscreen.jpg
 
 project_one: Helpdesk - Câmara Municipal de Três Corações
-project_one_description: Um helpdesk para atender as necessidades da Câmara Municipal da cidade de Três Corações - MG
+project_one_description: Um helpdesk para atender as necessidades da Câmara Municipal da cidade de Três Corações - MG.
 project_one_url: https://github.com/camaratc/helpdesk_django
-project_one_icon: location_on
+# project_one_icon: location_on
 project_one_img: assets/images/projects/helpdesk.png
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
-project_two_img: assets/images/projects/02.png
+project_two: Sispor
+project_two_description: Um sistema de controle de portaria, implementado conforme as necessidades da Câmara Municipal de Três Corações - MG.
+project_two_url: https://github.com/camaratc/visitas
+# project_two_icon: photo_camera
+project_two_img: assets/images/projects/sispor.png
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
-project_three_img: assets/images/projects/03.png
+project_three: Securehood
+project_three_description: Um aplicativo para Android e iOS para envio de alertas de emergência.
+project_three_url: https://github.com/matheusrf96/securehood_app
+# project_three_icon: hotel
+project_three_img: assets/images/projects/securehood.png
 
 project_four: Fourth Project
 project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+# project_four_icon: restaurant
 project_four_img: assets/images/projects/04.png
 
 portfolio_heading: Portfolio
