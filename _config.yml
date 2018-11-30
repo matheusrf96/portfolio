@@ -29,11 +29,11 @@ project_three_url: https://github.com/matheusrf96/securehood_app
 # project_three_icon: hotel
 project_three_img: assets/images/projects/securehood.png
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: SubSync
+project_four_description: Ferramenta em linha de comando para alteração de arquivos de legenda.
+project_four_url: https://github.com/matheusrf96/subsync
 # project_four_icon: restaurant
-project_four_img: assets/images/projects/04.png
+project_four_img: assets/images/projects/subsync.png
 
 portfolio_heading: Portfolio
 portfolio_type: cards
@@ -47,7 +47,7 @@ skills:
   - name: atom
   - name: bitbucket
   - name: bootstrap
-  - name: coffescript
+#  - name: coffescript
   - name: css3
   - name: django
   - name: docker
@@ -55,7 +55,7 @@ skills:
   - name: git
   - name: github
   - name: gitlab
-  - name: heroku
+#  - name: heroku
   - name: html5
   - name: inkscape
   - name: java
