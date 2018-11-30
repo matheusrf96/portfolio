@@ -11,7 +11,7 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/code2.jpg # These are the images used for the parallax background
 # parallax_image_two: assets/images/twoscreen.jpg
 
-project_one: Helpdesk - Câmara Municipal de Três Corações
+project_one: Helpdesk - CMTC
 project_one_description: Um helpdesk para atender as necessidades da Câmara Municipal da cidade de Três Corações - MG.
 project_one_url: https://github.com/camaratc/helpdesk_django
 # project_one_icon: location_on
