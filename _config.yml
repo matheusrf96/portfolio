@@ -84,7 +84,7 @@ skills:
   - name: windows8
   - name: wordpress
 
-icon_size: 50 # font-size of icons in px
+icon_size: 40 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github

@@ -17,6 +17,5 @@
             localStorage.setItem('cookieconsent', 'true')
             jQuery('#cookies').toggle('hide');
        });
-
    }); // end of document ready
  })(jQuery);

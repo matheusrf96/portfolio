@@ -11,6 +11,17 @@ $spacing-unit:     30px !default;
 
 @import "syntax-highlighting";
 
+@media screen and (max-width: 600px) {
+    #nav-burger{
+        visibility: hidden;
+        display: none;
+    }
+
+    #contato-social{
+        margin-top: 50px;
+    }    
+}
+
 .recuo-logo{
     margin-top: 5px;
 }
