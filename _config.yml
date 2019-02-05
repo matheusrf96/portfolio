@@ -64,7 +64,7 @@ skills:
   - name: less
   - name: linux
 #  - name: meteor
-#  - name: mongodb
+  - name: mongodb
   - name: mysql
 #  - name: nginx
   - name: nodejs
@@ -72,7 +72,7 @@ skills:
 #  - name: postgresql
   - name: python
   - name: rails
-#  - name: react
+  - name: react
   - name: ruby
   - name: sass
   - name: ssh
@@ -90,7 +90,7 @@ colored: colored # Leave blank for black and white icons
 project_button: Github
 
 github: https://github.com/matheusrf96
-linkedin: https://www.linkedin.com/in/matheus-rodrigues-6a09b3108/
+linkedin: https://www.linkedin.com/in/matheusrf96/
 # medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
